@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "211630139834",
+    "firebase_url": "https://fir-authentication-bda6c.firebaseio.com",
+    "project_id": "fir-authentication-bda6c",
+    "storage_bucket": "fir-authentication-bda6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211630139834:android:e9578fd644782a12",
+        "android_client_info": {
+          "package_name": "br.android.cericatto.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211630139834-u9nlsp66tpf9mqpu88um5arvis56ior6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL6W9TfYBaYjVL0cJLryhKmmirIMOAWWA"
+        },
+        {
+          "current_key": "AIzaSyAix39L0GcAssZY77lqucNAKgBKr_uovAQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
